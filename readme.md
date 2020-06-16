@@ -1,4 +1,3 @@
-
 Sonoff MW firmware
 =================
 
@@ -17,7 +16,7 @@ Features
 
 Todo features
 
-* Supprot of modules with multiple relays.
+* Support of modules with multiple relays.
 
 
 Setup
